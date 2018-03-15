@@ -1,20 +1,60 @@
 var friendList = [
     {
       name: 'Whit Petitgout',
-      profilePic: 'https://avatars3.githubusercontent.com/u/17751317?v=3&s=466',
+      
       scores: [
         "4",
         "5",
         "5",
         "2",
-        "4",
+        "4"
+        
+      ],
+      name: 'Steve Madden',
+      
+      scores: [
+        "2",
         "5",
         "4",
+        "1",
+        "1"
+        
+      ],
+      name: 'Frank Gifford',
+      
+      scores: [
         "4",
-        "3",
-        "4"
-      ]
+        "2",
+        "2",
+        "5",
+        "3"
+        
+      ],
+
+        name: 'Michael Jackson',
+      
+      scores: [
+        "4",
+        "1",
+        "5",
+        "1",
+        "2"
+        
+      ],
+
+      name: 'Steve Polycronoppolis',
+      
+      scores: [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+        
+      ],
     }
+
+
   ]
   
   module.exports = friendList;
